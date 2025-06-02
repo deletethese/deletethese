@@ -3,7 +3,7 @@
 **Welcome to the edge.**  
 This is **Delete** — where limits are meant to be broken.
 
-## ⚡ Who Am I?
+##  Who Am I?
 
 I’m not here to fit in. I’m here to **experiment, explore, and execute**.  
 From chaotic creativity to clean code, from tech hacks to raw thoughts — I dive headfirst into everything **hard-core**.
@@ -12,7 +12,7 @@ From chaotic creativity to clean code, from tech hacks to raw thoughts — I div
 - 🧪 Constantly experimenting — no rules, no apologies.
 - ⚙️ Tech, art, life — all fair game for my curiosity.
 
-## 💥 What to Expect
+##  What to Expect
 
 > “Normal is boring. Safe is dead. Delete is evolution.”
 
@@ -21,17 +21,17 @@ From chaotic creativity to clean code, from tech hacks to raw thoughts — I div
 - Unfiltered insights & projects that break molds  
 - Occasional chaos (on purpose)
 
-## 🧠 Philosophy
+##  Philosophy
 
 > **Try everything. Break most. Keep what’s worth it.**  
 > Life’s an open-source experiment — I just chose to commit hard.
 
-## 🧰 Tools, Skills & Toybox
+##  Tools, Skills & Toybox
 
 - Code, AI, music, design, hardware — anything that sparks curiosity.
 - I don't master tools — I **bend them** until they break.
 
-## 📫 Wanna Connect?
+##  Wanna Connect?
 
 Feel the burn of curiosity? Want to collaborate, chat, or build something wild?  
 Hit me up — if you're ready to go full send.
