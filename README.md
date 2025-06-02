@@ -1,7 +1,6 @@
 # 🛠️ DELETE
 
-**Welcome to the edge.**  
-This is **Delete** — where limits are meant to be broken.
+Welcome to the edge — where limits are meant to be broken.
 
 ##  Who Am I?
 
